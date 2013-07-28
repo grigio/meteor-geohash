@@ -1,0 +1,9 @@
+{
+  "name": "geohash",
+  "description": "Encode and decode your geo coordinates to geohash",
+  "homepage": "https://github.com/grigio/meteor-geohash",
+  "author": "Luigi Maselli",
+  "version": "0.0.1",
+  "git": "https://github.com/grigio/meteor-geohash.git",
+  "packages": { }
+}

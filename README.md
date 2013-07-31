@@ -2,6 +2,8 @@
 
 Geohash is a smart way to rapresent a geographic coordinate with different precisions and in one field. Meteor Geohash is avalaible at https://github.com/grigio/meteor-geohash and works on the client and on the server.
 
+[![Build Status](https://travis-ci.org/grigio/meteor-geohash.png)](https://travis-ci.org/grigio/meteor-geohash)
+
 ### Usage
 
 ```javascript

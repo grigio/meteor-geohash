@@ -4,6 +4,8 @@ Geohash is a smart way to rapresent a geographic coordinate with different preci
 
 [![Build Status](https://travis-ci.org/grigio/meteor-geohash.png)](https://travis-ci.org/grigio/meteor-geohash)
 
+Demo online => http://geohash.meteor.com
+
 ### Usage
 
 ```javascript

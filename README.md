@@ -27,5 +27,11 @@ A visual demo can be found at http://openlocation.org/geohash/geohash-js/
 ### Installation
 
 ```
-mrt add geohash
+mrt add meteor-geohash
+```
+
+### Test
+
+```
+meteor test-packages ./
 ```

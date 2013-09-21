@@ -1,3 +1,4 @@
 TAGS
 .meteor
 smart.lock
+.build*

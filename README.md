@@ -4,8 +4,6 @@ Geohash is a smart way to rapresent a geographic coordinate with different preci
 
 [![Build Status](https://travis-ci.org/grigio/meteor-geohash.png)](https://travis-ci.org/grigio/meteor-geohash)
 
-Demo online => http://geohash.meteor.com
-
 ### Usage
 
 ```javascript
@@ -22,7 +20,7 @@ geohash.neighbors('dqcw4b') // => Object {c: "dqcw4b", n: "dqcw4c", e: "dqcw50",
 
 ### Example
 
-A visual demo can be found at http://openlocation.org/geohash/geohash-js/
+A visual demo can be found at http://geohash.meteor.com
 
 ### Installation
 

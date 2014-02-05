@@ -8,6 +8,6 @@ Package.on_use(function (api, where) {
 });
 
 Package.on_test(function (api) {
-  api.use(['meteor-geohash','tinytest', 'test-helpers'], ['client', 'server']);
+  api.use(['geohash','tinytest', 'test-helpers'], ['client', 'server']);
   api.add_files('tests/geohash_test.js', ['client', 'server']);
 });

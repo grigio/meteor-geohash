@@ -31,5 +31,5 @@ mrt add meteor-geohash
 ### Test
 
 ```
-meteor test-packages ./
+mrt test-packages ./
 ```

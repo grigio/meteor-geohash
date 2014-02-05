@@ -25,7 +25,7 @@ A visual demo can be found at http://geohash.meteor.com
 ### Installation
 
 ```
-mrt add meteor-geohash
+mrt add geohash
 ```
 
 ### Test
